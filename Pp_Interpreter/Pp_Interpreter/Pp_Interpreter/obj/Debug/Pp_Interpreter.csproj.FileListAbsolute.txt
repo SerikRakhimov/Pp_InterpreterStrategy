@@ -1,0 +1,7 @@
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_Interpreter\Pp_Interpreter\Pp_Interpreter\obj\Debug\Pp_Interpreter.csprojResolveAssemblyReference.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_Interpreter\Pp_Interpreter\Pp_Interpreter\obj\Debug\Pp_Interpreter.csproj.CoreCompileInputs.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_Interpreter\Pp_Interpreter\Pp_Interpreter\bin\Debug\Pp_Interpreter.exe.config
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_Interpreter\Pp_Interpreter\Pp_Interpreter\bin\Debug\Pp_Interpreter.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_Interpreter\Pp_Interpreter\Pp_Interpreter\bin\Debug\Pp_Interpreter.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_Interpreter\Pp_Interpreter\Pp_Interpreter\obj\Debug\Pp_Interpreter.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_Interpreter\Pp_Interpreter\Pp_Interpreter\obj\Debug\Pp_Interpreter.pdb

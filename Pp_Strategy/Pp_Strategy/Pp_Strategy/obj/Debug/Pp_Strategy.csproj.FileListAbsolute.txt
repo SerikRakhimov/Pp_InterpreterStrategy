@@ -1,0 +1,7 @@
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_Strategy\Pp_Strategy\Pp_Strategy\bin\Debug\Pp_Strategy.exe.config
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_Strategy\Pp_Strategy\Pp_Strategy\bin\Debug\Pp_Strategy.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_Strategy\Pp_Strategy\Pp_Strategy\bin\Debug\Pp_Strategy.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_Strategy\Pp_Strategy\Pp_Strategy\obj\Debug\Pp_Strategy.csprojResolveAssemblyReference.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_Strategy\Pp_Strategy\Pp_Strategy\obj\Debug\Pp_Strategy.csproj.CoreCompileInputs.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_Strategy\Pp_Strategy\Pp_Strategy\obj\Debug\Pp_Strategy.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_Strategy\Pp_Strategy\Pp_Strategy\obj\Debug\Pp_Strategy.pdb
